@@ -18,10 +18,6 @@ import edu.stanford.nlp.util.CoreMap;
 
 import java.util.*;
 
-
-
-
-
 class Term implements Comparable<Term>{
   private String fullname; 
   private ArrayList<String> components;
